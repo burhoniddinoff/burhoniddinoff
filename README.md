@@ -38,9 +38,10 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Coffeescript' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Coffeescript&logoColor=white&labelColor=D36E30&color=D36E30'/></a>
 <a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank">
 
- <a target="_blank" align=center rel="noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=MSCO-2000&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact"   title="Go to Source">
-    <img  height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSCO-2000&show_icons=true&theme=tokyonight&hide_border=true&pretty=true&layout=compact" alt="MSCO-2000" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
+  <img alt="github-snake" src="./snk.svg" />
+</picture>
 
 ---
   <p align="center">
