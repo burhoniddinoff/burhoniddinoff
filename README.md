@@ -44,9 +44,8 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 </p>
 
 
-Visualizations:
+  <img height=140 src="https://github-readme-streak-stats.herokuapp.com/?user=MSCO-2000&theme=tokyonight&show_icons=true&hide_border=true&pretty=true" alt="mystreak"/>
   
-  <img src="https://profile-counter.glitch.me/{burhoniddinoff}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
 
 
 ## ⚒️ Wakatime:
