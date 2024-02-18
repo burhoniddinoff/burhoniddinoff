@@ -38,7 +38,8 @@ I am a Mobile developer 💻 with 0.6 years experience. Being an Software Develo
   <img src="https://profile-counter.glitch.me/burhoniddinoff/count.svg">
 </p>
 
-<summary>Github statistics...</summary>
+## ⚒️ Wakatime:
+<summary>Wakatime statistics...</summary>
   <p align ="center">
     <image src="https://wakatime.com/share/@brxnw/5bd21d7f-ed9c-4832-b515-f4a61317b198.svg" height="400"/>
   </p>
