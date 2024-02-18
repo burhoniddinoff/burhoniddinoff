@@ -7,8 +7,9 @@
 
  
 ## Glad to see you here !✨  
-<div> <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" /></div>
-I am a Mobile developer 💻 with 0.6 years experience. Being an Software Developer allows me to not only develop ✨
+ <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
+
+I am 18 years old android developer 💻 with 0.6 years experience. Being an Software Developer allows me to not only develop ✨
 <br/>   
 
   
