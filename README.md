@@ -50,6 +50,9 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 
 ## ⚒️ Wakatime:
 <summary>Wakatime statistics...</summary>
-  <p align ="center">
+  <p align ="start">
     <image src="https://wakatime.com/share/@brxnw/5bd21d7f-ed9c-4832-b515-f4a61317b198.svg" height="400"/>
+  </p>
+<p align ="end">
+    <image src="https://wakatime.com/share/@brxnw/7f9c5f07-bfd8-4de6-989e-16c8d038c7fa.svg" height="400"/>
   </p>
