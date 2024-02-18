@@ -9,7 +9,7 @@
 ## Glad to see you here !✨  
  <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
 
-I am 18 years old android developer 💻 with 0.6 years experience. Being an Software Developer allows me to not only develop ✨
+I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experience. Being an Software Developer allows me to not only develop ✨
 <br/>   
 
   
@@ -42,6 +42,12 @@ I am 18 years old android developer 💻 with 0.6 years experience. Being an Sof
   <p align="center">
   <img src="https://profile-counter.glitch.me/burhoniddinoff/count.svg">
 </p>
+
+
+Visualizations:
+  
+  <img src="https://profile-counter.glitch.me/{burhoniddinoff}/count.svg" alt="MSCO-2000 :: Visitor's Count" />
+
 
 ## ⚒️ Wakatime:
 <summary>Wakatime statistics...</summary>
