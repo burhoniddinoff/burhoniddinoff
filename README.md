@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
+
   <summary>Github statistics...</summary>
 <p align ="center">
   <image src="https://wakatime.com/share/@brxnw/5bd21d7f-ed9c-4832-b515-f4a61317b198.svg" height="400"/>
 </p>
-</details>
+
