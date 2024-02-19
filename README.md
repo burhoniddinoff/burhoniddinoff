@@ -63,4 +63,11 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 
 <p align ="center">
     <image src="https://wakatime.com/share/@brxnw/7f9c5f07-bfd8-4de6-989e-16c8d038c7fa.svg" height="400"/>
-  </p>
+</p>
+
+
+## 🥇️️️️ All time result:
+
+<p align ="center">
+    <image src="https://wakatime.com/share/@brxnw/0f920348-401d-49ff-9804-bf7b04a78acd.svg" height="400"/>
+</p>
