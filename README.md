@@ -29,6 +29,10 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 <a href="https://wakatime.com/@brxnw" target="_blank">
 <img src=https://img.shields.io/badge/Wakatime-414141?style=for-the-badge&logo=wakatime&logoColor=white alt=wakatime style="margin-bottom: 5px;" />
 </a> 
+<a href="https://leetcode.com/brxnw/" target="_blank">
+<img src=https://img.shields.io/badge/Leetcode-FFFF00?style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a> 
+
 </div>  
 <br/>  
 
