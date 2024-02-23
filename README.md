@@ -2,7 +2,7 @@
     <img src="https://github.com/samandar-me/samandar-me/assets/95674842/2de81654-4ed3-4671-a7a4-1679d3c57747">
 </p>
 
-## <div align="center">Hey 👋, I'm  Abdulqodir</div>  
+<!-- ## <div align="center">Hey 👋, I'm  Abdulqodir</div> -->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Abdulqodir!;" />
