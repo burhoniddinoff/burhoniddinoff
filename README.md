@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Abdulqodir!;" />
 </h1>
 
-
  
 ## Glad to see you here !✨  
  <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
