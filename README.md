@@ -60,7 +60,7 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
 <div align="center">
   <h2>🐍</h2>
       <br>
-          <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/burhoniddinoff/burhoniddinoff/output/github-contribution-grid-snake.svg" />
+          <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
       <br/>
   <br/>
 </div>
