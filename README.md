@@ -56,13 +56,13 @@ I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experien
   <img src="https://profile-counter.glitch.me/burhoniddinoff/count.svg">
 </p>
 
-<div align="center">
+<!--<div align="center">
   <h2>🐍 Fake Snake</h2>
       <br>
           <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
       <br/>
   <br/>
-</div>
+</div> -->
 
 ## ⚒️ Wakatime:
 
