@@ -20,7 +20,7 @@ I am a software developer from Andijan, Uzbekistan 💻. I started with Android 
 </a>  
  </a>
 <a href="https://t.me/brxnw" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a> 
 </a>
 <a href="https://wakatime.com/@brxnw" target="_blank">
