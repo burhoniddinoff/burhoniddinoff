@@ -1,12 +1,6 @@
-<p align="center">
-<!--     <img src="https://github.com/samandar-me/samandar-me/assets/95674842/2de81654-4ed3-4671-a7a4-1679d3c57747"> -->
-</p>
-
 <!-- ## <div align="center">Hey 👋, I'm  Abdulqodir</div> -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Abdulqodir!;" />
-</h1>
+<h1 align="center">Hey 👋, I'm Abdulqodir</h1>
 
  
 ## Glad to see you here !✨  
@@ -61,14 +55,7 @@ I am a software developer from Andijan, Uzbekistan 💻. I started with Android 
 ## ⚒️ Wakatime:
 
   <p align ="center">
-    <image src="https://wakatime.com/share/@brxnw/5bd21d7f-ed9c-4832-b515-f4a61317b198.svg" height="400"/>
+    <image src="./wakatime.svg" height="400"/>
   </p>
-
-
-## 🥇️️️️ wakatime last 30 days result:
-
-<p align ="center">
-    <image src="https://wakatime.com/share/@brxnw/7f9c5f07-bfd8-4de6-989e-16c8d038c7fa.svg" height="400"/>
-</p>
 
 
