@@ -1,80 +1,42 @@
 <p align="center">
-<!--     <img src="https://github.com/samandar-me/samandar-me/assets/95674842/2de81654-4ed3-4671-a7a4-1679d3c57747"> -->
+  <img src="assets/hero.svg" alt="Akuma. Bots, sites, 1C automation and AI video." width="100%">
 </p>
 
-<!-- ## <div align="center">Hey 👋, I'm  Abdulqodir</div> -->
+I turn paper and Excel work into code: customs PDFs into 1C documents, Telegram bots into databases on a server. I write it, test it and keep it running myself. Most of this lives in private repositories, so here is what it does.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Abdulqodir!;" />
-</h1>
+## Selected work
 
- 
-## Glad to see you here !✨  
- <img align=right width=100 src="https://i.pinimg.com/originals/d0/19/72/d019725ef4da31a294694f31a3702297.gif" />
+| Project | What it does |
+| :-- | :-- |
+| **Davomat**<br><sub>Face ID attendance</sub> | Hikvision terminals write straight to the database. Handles weekly, cyclic and night shifts, timesheets, payroll and Telegram reports. Runs at two companies.<br><sub>FastAPI, React, SQLite</sub> |
+| **1C automation**<br><sub>Scheduled scripts</sub> | Collects customs PDFs every morning, updates Excel registers and enters documents into 1C, so nobody retypes them by hand.<br><sub>Python, 1C, PowerShell</sub> |
+| **[Andijon Sale](https://t.me/AndijonSaleBot)**<br><sub>Telegram Mini App store</sub> | Sections, stock by size and order numbers. Stock returns on its own when an order is cancelled. 740 products, managed by the owner from an admin panel.<br><sub>aiogram, Mini App, SQLite</sub> |
+| **Live Uzbek subtitles**<br><sub>Desktop app, local AI</sub> | Captures computer audio and shows translated subtitles over the screen with about half a second of delay. Also makes `.srt` files from video.<br><sub>Whisper, NLLB-200</sub> |
+| **CS2 fragmovies**<br><sub>Video pipeline</sub> | Scans demos for multi-kill rounds, drives CS2 and OBS to record in 4K, then cuts the clips to the beat.<br><sub>Python, OBS, FFmpeg</sub> |
+| **Baliqchi GES in 4K**<br><sub>AI video on a local GPU</sub> | Turned ordinary phone photos into moving 4K shots with Qwen Edit, Wan 2.2 and ESRGAN, all on a home RTX 3080.<br><sub>ComfyUI, Wan 2.2</sub> |
 
-I am 18 years old android developer from Uzbekistan 💻 with 0.6 years experience. Being an Software Developer allows me to not only develop ✨
-<br/>   
+## Stack
 
-  
-## 🤝 Connect with me  
-<div align="start">
-<a href="https://www.linkedin.com/in/brxnw/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="burhoniddinoff@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-</a>  
- </a>
-<a href="https://t.me/brxnw" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
-</a> 
-</a>
-<a href="https://wakatime.com/@brxnw" target="_blank">
-<img src=https://img.shields.io/badge/Wakatime-414141?style=for-the-badge&logo=wakatime&logoColor=white alt=wakatime style="margin-bottom: 5px;" />
-</a> 
-<a href="https://leetcode.com/brxnw/" target="_blank">
-<img src=https://img.shields.io/badge/Leetcode-ffa115?style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
-</a> 
+**Bots and web**
 
-</div>  
-<br/>  
+<img src="assets/chips/python.svg" alt="Python" height="34"> <img src="assets/chips/aiogram.svg" alt="aiogram" height="34"> <img src="assets/chips/telethon.svg" alt="Telethon" height="34"> <img src="assets/chips/fastapi.svg" alt="FastAPI" height="34"> <img src="assets/chips/react.svg" alt="React" height="34"> <img src="assets/chips/javascript.svg" alt="JavaScript" height="34"> <img src="assets/chips/nodejs.svg" alt="Node.js" height="34"> <img src="assets/chips/sqlite.svg" alt="SQLite" height="34">
 
-## ⚒️ Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-<a href='https://www.jetbrains.com/lp/compose-multiplatform/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/Kotlin_-100000?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF&labelColor=7F52FF&color=7F52FF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Coffeescript' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Coffeescript&logoColor=white&labelColor=D36E30&color=D36E30'/></a>
-<a href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2rZvn5pj6AhVKR5EFHcs4D6sYABABGgJscg&ohost=www.google.com&cid=CAESbOD21cS7iVkFEpxYIzBZ14hDSdRZwjxtt6XjTVBX5kMUEH6PXOLX6_NAj51socW7NoiYXEXI49rMTg9TX8WfPFjxUmUguyqMQxIDkQM1kY6ZUIGfmZb2HL45p-9WbVNxczm3BPuw7N2_hFFdAw&sig=AOD64_1p8PNc3Iqs67yqnkr5nUP2XCazeg&q&adurl&ved=2ahUKEwiDzJXn5pj6AhWTzYsKHQ1GDzAQ0Qx6BAgDEAE' target="_blank">
+**Automation and servers**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snk.svg" />
-  <img alt="github-snake" src="./snk.svg" />
-</picture>
+<img src="assets/chips/1c.svg" alt="1C" height="34"> <img src="assets/chips/powershell.svg" alt="PowerShell" height="34"> <img src="assets/chips/linux.svg" alt="Linux" height="34"> <img src="assets/chips/caddy.svg" alt="Caddy" height="34">
 
----
+**AI and video**
 
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/burhoniddinoff/count.svg">
-</p>
+<img src="assets/chips/whisper.svg" alt="Whisper" height="34"> <img src="assets/chips/comfyui.svg" alt="ComfyUI" height="34"> <img src="assets/chips/ffmpeg.svg" alt="FFmpeg" height="34"> <img src="assets/chips/obs.svg" alt="OBS" height="34">
 
-<!--<div align="center">
-  <h2>🐍 Fake Snake</h2>
-      <br>
-          <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-      <br/>
-  <br/>
-</div> -->
+**Android**, where I started in 2022. My public repositories are from that time.
 
-## ⚒️ Wakatime:
+<img src="assets/chips/kotlin.svg" alt="Kotlin" height="34"> <img src="assets/chips/java.svg" alt="Java" height="34"> <img src="assets/chips/compose.svg" alt="Jetpack Compose" height="34"> <img src="assets/chips/firebase.svg" alt="Firebase" height="34">
 
-  <p align ="center">
-    <image src="https://wakatime.com/share/@brxnw/5bd21d7f-ed9c-4832-b515-f4a61317b198.svg" height="400"/>
-  </p>
+## Contact
 
+<a href="https://t.me/brxnw"><img src="assets/chips/telegram.svg" alt="Telegram" height="34"></a> <a href="https://www.linkedin.com/in/brxnw/"><img src="assets/chips/linkedin.svg" alt="LinkedIn" height="34"></a> <a href="https://leetcode.com/brxnw/"><img src="assets/chips/leetcode.svg" alt="LeetCode" height="34"></a> <a href="mailto:burhoniddinoff@gmail.com"><img src="assets/chips/email.svg" alt="Email" height="34"></a>
 
-## 🥇️️️️ wakatime last 30 days result:
+<br>
 
-<p align ="center">
-    <image src="https://wakatime.com/share/@brxnw/7f9c5f07-bfd8-4de6-989e-16c8d038c7fa.svg" height="400"/>
-</p>
-
-
+<img src="assets/ribbon.svg" alt="" width="100%">
